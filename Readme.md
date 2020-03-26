@@ -1,7 +1,8 @@
 ### Description:
 To run the script please provide the global administrator credentials or Teams admin credentials.
 
-This script will provide the Teams owners and members information of available teams in tenant.
+This script will export details of microsoft Teams in your tenant with following details to a .csv file.\
+Team Displayname,Teamid,Team owner,member
 
 First it will get the available Teams in the tenat\
 For each Team it will fetch the Owner and members of the team\
