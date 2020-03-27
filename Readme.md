@@ -8,6 +8,8 @@ Click Yes at the UAC prompt.
 2.Type the following within PowerShell and then press Enter:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**`Install-Module MicrosoftTeams`**
   
+  ![TestImage](C:/Users/v-gsaiku/Pictures/1.png)
+  
 3.Type Y at the prompt.Press Enter.
 
 4.If you are prompted for an untrusted repository,then type A (Yes to All) and press Enter.The module will now install. 
