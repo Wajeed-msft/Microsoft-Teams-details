@@ -8,7 +8,7 @@ Click Yes at the UAC prompt.
 2.Type the following within PowerShell and then press Enter:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**`Install-Module MicrosoftTeams`**
   
-  ![TestImage](C:\Users\v-gsaiku\Documents\GitPics\1.png)
+  ![TestImage](https://github.com/Geetha63/Test/blob/master/powershell_images/three.png)
   
 3.Type Y at the prompt.Press Enter.
 
